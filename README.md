@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Maddox Cox 
 
-<!--
-**maddoxcox/maddoxcox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Studying Computer Science at Brigham Young University–Hawaii, with a double minor in Business Management and Visual Arts.
 
-Here are some ideas to get you started:
+Lived in the Philippines for two years — fluent in Tagalog and know a bit of Ilocano.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I love to learn. I'm drawn to projects where I get to understand the why behind a technical decision, not just make something work.
+
+
+🌱 A bit more about me
+
+
+I bring a mix of engineering, business, and design — the three things I study — to how I think about building products.
+Comfortable working across languages and cultures.
+
+
+
+📫 Reach me: [email] · [LinkedIn]
