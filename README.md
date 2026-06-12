@@ -1,4 +1,4 @@
-Hi, I'm Maddox Cox 
+<h1>Hi, I'm Maddox Cox!</h1>
 
 Studying Computer Science at Brigham Young University–Hawaii, with a double minor in Business Management and Visual Arts.
 
